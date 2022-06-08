@@ -5,7 +5,7 @@
 
 ### Intrinsic Phase of CEE-US: Free Play
 #### In the Construction environment:
-{% include googleDrivePlayer.html id=1giPb0tWH3L6F0O3JswhQCM9YOgn4hK3d/preview %}
+{% include googleDrivePlayer.html id="1giPb0tWH3L6F0O3JswhQCM9YOgn4hK3d/preview" %}
 
 ### Extrinsic Phase of CEE-US: Solving Downstream Tasks Zero-Shot
 We showcase the zero-shot generalization of our method to challenging object manipulation tasks. Thanks to the combinatorial generalization capabilities of Graph Neural Networks, we can apply the learned world model to solve tasks with more or less than 4 objects, which is the number of blocks seen during free play time. 
