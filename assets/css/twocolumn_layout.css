@@ -4,11 +4,12 @@
 }
   
 .twocolumn_wrapper .twocolumn_left {
-    width: 50%;
-    height: 100vh;
+    width: 47.5%;
+    height: auto;
+    margin-right: 5%;
 }
 
 .twocolumn_wrapper .twocolumn_right {
-    width: 50%;
-    height: 100vh;
+    width: 75.5%;
+    height: auto;
 }
