@@ -8,26 +8,26 @@
 ### Extrinsic Phase of CEE-US: Solving Downstream Tasks Zero-Shot in the Construction Environment
 We showcase the zero-shot generalization of our method to challenging object manipulation tasks. Thanks to the combinatorial generalization capabilities of Graph Neural Networks, we can apply the learned world model to solve tasks with more or less than 4 objects, which is the number of blocks seen during free play time. 
 
-<div class="twocolumn_wrapper"  markdown="1">
+<div class="twocolumn_wrapper">
 
-<div class="twocolumn_left"  markdown="1">
-#### Stacking:
+<div class="twocolumn_left">
+    <h4>Stacking:</h4>
 {% include googleDrivePlayer.html id="1PMsrrkEAUSioEtxJKPZh05ZzwMqp4NaI/preview" %}
 </div>
 
-    <div class="twocolumn_right"  markdown="1">
-#### Throwing:
+    <div class="twocolumn_right">
+        <h4>Throwing:</h4>
 {% include googleDrivePlayer.html id="1DuMrrnnS-ixKMLkE-3_Quv3yVxbg3sAq/preview" %}
       </div>
 </div>
-<div class="twocolumn_wrapper"  markdown="1">
-  <div class="twocolumn_left"  markdown="1">
-#### Flipping:
+<div class="twocolumn_wrapper">
+  <div class="twocolumn_left">
+      <h4>Flipping:</h4>
 {% include googleDrivePlayer.html id="1C_pvgrSH0oS9NPId88ljuenjb4uv6-lK/preview" %}
     </div>
 
-  <div class="twocolumn_right"  markdown="1">
-#### Pick and Place:
+  <div class="twocolumn_right">
+<h4>Pick and Place:</h4>
 {% include googleDrivePlayer.html id="1XxV4fYb1xFFCQi1KfpX283gV0M-z1p2q/preview" %}
   </div>
   
