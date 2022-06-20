@@ -8,29 +8,55 @@
 ### Extrinsic Phase of CEE-US: Solving Downstream Tasks Zero-Shot in the Construction Environment
 We showcase the zero-shot generalization of our method to challenging object manipulation tasks. Thanks to the combinatorial generalization capabilities of Graph Neural Networks, we can apply the learned world model to solve tasks with more or less than 4 objects, which is the number of blocks seen during free play time. 
 
-#### Stacking:
+<div class="twocolumn_wrapper" style="margin-bottom: 3em;">
+
+<div class="twocolumn_left">
+    <h4>Stacking:</h4>
 {% include googleDrivePlayer.html id="1PMsrrkEAUSioEtxJKPZh05ZzwMqp4NaI/preview" %}
+</div>
 
-#### Throwing:
+    <div class="twocolumn_right">
+        <h4>Throwing:</h4>
 {% include googleDrivePlayer.html id="1DuMrrnnS-ixKMLkE-3_Quv3yVxbg3sAq/preview" %}
-
-#### Flipping:
+      </div>
+</div>
+<div class="twocolumn_wrapper">
+  <div class="twocolumn_left">
+      <h4>Flipping:</h4>
 {% include googleDrivePlayer.html id="1C_pvgrSH0oS9NPId88ljuenjb4uv6-lK/preview" %}
+    </div>
 
-#### Pick and Place:
+  <div class="twocolumn_right">
+<h4>Pick and Place:</h4>
 {% include googleDrivePlayer.html id="1XxV4fYb1xFFCQi1KfpX283gV0M-z1p2q/preview" %}
+  </div>
+  
+ </div>
 
 ### Intrinsic Phase of CEE-US: Free Play in the Playground Environment
 {% include googleDrivePlayer.html id="1Cys1koJ0OPJruf9zrStsSDPyGgtOjFnh/preview" %}
 
 ### Extrinsic Phase of CEE-US: Solving Downstream Tasks Zero-Shot in the Playground Environment
-#### Pushing with 4 Objects (as seen in free play):
+                                                                                
+<div class="twocolumn_wrapper" style="margin-bottom: 3em;">
+    <div class="twocolumn_left">
+        <h4>Pushing with 4 Objects (as seen in free play):</h4>
 {% include googleDrivePlayer.html id="1MWONl3jskS8Pap-Ymu1_iLNr1Rxbsqqk/preview" %}
+    </div>
 
-#### Pushing with 5 Random Objects:
+     <div class="twocolumn_right">
+         <h4>Pushing with 5 Random Objects:</h4>
 {% include googleDrivePlayer.html id="1m4J8A4CYtLDE8qFz4JW7ykHmIjVB6XIT/preview" %}
+    </div>
+    </div>
 
-#### Pushing with 3 Random Objects:
+<div class="twocolumn_wrapper">
+    <div class="twocolumn_left">
+        <h4>Pushing with 3 Random Objects:</h4>
 {% include googleDrivePlayer.html id="1GDWnCtNL9Q2jpfkDn5jf2gvkk8WWNwK8/preview" %}
+    </div>
+    <div class="twocolumn_right">
+    </div>
+    </div>
 
 **Code will be uploaded later!**
