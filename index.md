@@ -10,21 +10,25 @@ We showcase the zero-shot generalization of our method to challenging object man
 
 <div class="twocolumn_wrapper">
 
+<div class="twocolumn_left">
 #### Stacking:
-{: .twocolumn_left }
 {% include googleDrivePlayer.html id="1PMsrrkEAUSioEtxJKPZh05ZzwMqp4NaI/preview" %}
+</div>
 
+    <div class="twocolumn_right">
 #### Throwing:
-{: .twocolumn_right }
 {% include googleDrivePlayer.html id="1DuMrrnnS-ixKMLkE-3_Quv3yVxbg3sAq/preview" %}
+      </div>
 
+  <div class="twocolumn_left">
 #### Flipping:
-{: .twocolumn_left }
 {% include googleDrivePlayer.html id="1C_pvgrSH0oS9NPId88ljuenjb4uv6-lK/preview" %}
+    </div>
 
+  <div class="twocolumn_right">
 #### Pick and Place:
-{: .twocolumn_right }
 {% include googleDrivePlayer.html id="1XxV4fYb1xFFCQi1KfpX283gV0M-z1p2q/preview" %}
+  </div>
   
  </div>
 
