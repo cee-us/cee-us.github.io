@@ -63,7 +63,12 @@ We showcase the zero-shot generalization of our method to challenging object man
     <div class="twocolumn_right">
     </div>
     </div>
-    
+
+### Intrinsic Phase of CEE-US: Free Play in the Robodesk Environment
+<div style="width: 75%; margin: 0 auto;">
+{% include googleDrivePlayer.html id="1cG606VP66FZ0RCDyjhZypveY9BTetA8s/preview" %}
+    </div>
+                        
 ### Extrinsic Phase of CEE-US: Solving Downstream Tasks Zero-Shot in the Robodesk Environment
 
 We showcase the zero-shot generalization of our method in the Robodesk environment on the tasks: open sliding cabinet, push flat block off the table, open drawer and push green button.
