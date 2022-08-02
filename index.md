@@ -63,5 +63,33 @@ We showcase the zero-shot generalization of our method to challenging object man
     <div class="twocolumn_right">
     </div>
     </div>
+    
+### Extrinsic Phase of CEE-US: Solving Downstream Tasks Zero-Shot in the Robodesk Environment
 
+We showcase the zero-shot generalization of our method in the Robodesk environment on the tasks: open sliding cabinet, push flat block off the table, open drawer and push green button.
+
+<div class="twocolumn_wrapper" style="margin-bottom: 3em;">
+
+<div class="twocolumn_left">
+    <h4>Open Slide:</h4>
+{% include googleDrivePlayer.html id="1dbsnNr5AacABRwNL8kjJfu-Ft6nYYqvr/preview" %}
+</div>
+
+    <div class="twocolumn_right">
+        <h4>Push Flat Block Off Table:</h4>
+{% include googleDrivePlayer.html id="1M64tZh5PXS-oaiDRzMc-E821gz24ylbr/preview" %}
+      </div>
+</div>
+<div class="twocolumn_wrapper">
+  <div class="twocolumn_left">
+      <h4>Open Drawer:</h4>
+{% include googleDrivePlayer.html id="1OYjk-YOEjDWYVfieNmUAfslm0wsnyNSy/preview" %}
+    </div>
+
+  <div class="twocolumn_right">
+<h4>Push Green Button:</h4>
+{% include googleDrivePlayer.html id="1EdxbfBds7AyyxNxH_iPqhydnQ_v3J9pa/preview" %}
+  </div>
+  
+ </div>
 **Code will be uploaded later!**
